@@ -1,0 +1,71 @@
+{
+  "version": "1.0",
+  "generatedAt": "<datetime ISO-8601>",
+  "type": "internal|external|personal",
+  "secondaryFocus": "professional|personal|null",
+
+  "person": {
+    "name": "<Nome completo capitalizado ou null>",
+    "age": "<inteiro ou null>",
+    "location": "<cidade/estado/país ou null>",
+    "languages": ["<idioma>", "..."],
+    "professional": {
+      "isEmployed": "<true|false|null>",
+      "currentCompany": "<string ou null>",
+      "jobFunction": "<string ou null>",
+      "seniorityLevel": "<Intern|Junior|Mid|Senior|Lead|Manager|Director|VP|C-Level|null>",
+      "targetRole": "<string ou null>",
+      "targetArea": "<string ou null>",
+      "industry": "<string ou null>",
+      "study": {
+        "course": "<string ou null>",
+        "subjects": ["<string>", "..."]
+      },
+      "skills": ["<string>", "..."],
+      "certifications": ["<string>", "..."],
+      "toolsAndTech": ["<string>", "..."]
+    },
+    "personal": {
+      "interests": ["<string>", "..."],
+      "healthAndWellbeing": ["<string>", "..."],
+      "relationships": [
+        { "name": "<string>", "type": "<string>" }
+      ]
+    }
+  },
+
+  "goals": {
+    "shortTerm": ["<string>", "..."],  
+    "midTerm": ["<string>", "..."],    
+    "longTerm": ["<string>", "..."]    
+  },
+
+  "kpis": [
+    { "name": "<métrica>", "target": "<valor>", "dueBy": "<data ISO ou null>" }
+  ],
+
+  "actions": [
+    {
+      "title": "<o que fazer>",
+      "why": "<benefício/resultado>",
+      "steps": ["<passo 1>", "<passo 2>", "..."],
+      "estimatedEffort": "<ex.: 2h/semana>",
+      "owner": "<padrão: person.name>",
+      "deadline": "<data ISO ou null>",
+      "dependencies": ["<string>", "..."],
+      "resources": ["<curso/livro/artigo/ferramenta>", "..."],
+      "risks": ["<risco>", "..."],
+      "mitigations": ["<mitigação>", "..."]
+    }
+  ],
+
+  "timeline": [
+    { "period": "<ex.: Q4/2025 ou 2025-10>", "focus": "<tema>", "milestones": ["<m1>", "<m2>"] }
+  ],
+
+  "mentorsAndNetwork": [
+    { "name": "<string ou null>", "role": "<string ou null>", "howTheyHelp": "<string ou null>" }
+  ],
+
+  "notes": ["<notas livres ou premissas>"]
+}
