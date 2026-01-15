@@ -39,8 +39,6 @@ class PDIGeneratorAI:
             ),
             contents=self.user_prompt,
         )
-
+        
+        print(response.text)
         return response.text
-
-
-print(PDIGeneratorAI(user_prompt="Quero me tornar um arquiteto de software").answer())
