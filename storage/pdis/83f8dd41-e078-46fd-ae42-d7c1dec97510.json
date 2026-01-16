@@ -1,0 +1,162 @@
+{
+  "id": "83f8dd41-e078-46fd-ae42-d7c1dec97510",
+  "created_at": "2026-01-16T03:18:13.165395",
+  "data": {
+    "version": "1.0",
+    "generatedAt": "2024-07-30T10:00:00Z",
+    "type": "personal",
+    "secondaryFocus": null,
+    "person": {
+      "name": null,
+      "age": null,
+      "location": null,
+      "languages": [
+        "Português (BR)"
+      ],
+      "professional": {
+        "isEmployed": null,
+        "currentCompany": null,
+        "jobFunction": null,
+        "seniorityLevel": null,
+        "targetRole": null,
+        "targetArea": null,
+        "industry": null,
+        "study": {
+          "course": null,
+          "subjects": []
+        },
+        "skills": [],
+        "certifications": [],
+        "toolsAndTech": []
+      },
+      "personal": {
+        "interests": [
+          "Criação de Memes",
+          "Humor Irreverente",
+          "Comunidades Online (Discord)"
+        ],
+        "healthAndWellbeing": [],
+        "relationships": []
+      }
+    },
+    "goals": {
+      "shortTerm": [
+        "Entender a cultura e os limites de humor de servidores populares de Discord com foco em 'paneleiros'",
+        "Criar ou coletar um repertório inicial de conteúdo (memes, textos) que se alinhe ao humor desejado"
+      ],
+      "midTerm": [
+        "Ser reconhecido como um membro ativo e engajado em ao menos uma comunidade de Discord com o estilo 'paneleiro'",
+        "Desenvolver um estilo próprio de humor e interação que gere engajamento na comunidade"
+      ],
+      "longTerm": [
+        "Manter uma presença influente e inovadora em comunidades de humor no Discord, adaptando-se a novas tendências",
+        "Contribuir para a moderação ou curadoria de conteúdo em servidores de destaque, se houver interesse"
+      ]
+    },
+    "kpis": [
+      {
+        "name": "Engajamento em postagens",
+        "target": "Média de 5+ reações por postagem em 30 dias",
+        "dueBy": null
+      },
+      {
+        "name": "Conteúdo original/curado",
+        "target": "3+ itens por semana",
+        "dueBy": null
+      }
+    ],
+    "actions": [
+      {
+        "title": "Imersão em Comunidades de Humor do Discord",
+        "why": "Para compreender as dinâmicas, o humor e as expectativas de um 'paneleiro' eficaz.",
+        "steps": [
+          "Identificar e ingressar em 3-5 servidores de Discord conhecidos por terem 'paneleiros' influentes",
+          "Observar passivamente as interações, os tipos de conteúdo que geram mais engajamento e as regras não-escritas",
+          "Interagir minimamente por 2 semanas para sentir o 'tom' da comunidade antes de postar conteúdo próprio"
+        ],
+        "estimatedEffort": "5h/semana",
+        "owner": null,
+        "deadline": null,
+        "dependencies": [
+          "Acesso ao Discord"
+        ],
+        "resources": [
+          "Servidores de Discord populares (ex: com subreddits de memes associados)",
+          "Tutoriais de Discord para iniciantes (se necessário)"
+        ],
+        "risks": [
+          "Ser banido por desconhecer regras",
+          "Não conseguir entender o humor local"
+        ],
+        "mitigations": [
+          "Ler atentamente as regras de cada servidor",
+          "Começar observando e interagindo de forma mais cautelosa"
+        ]
+      },
+      {
+        "title": "Desenvolvimento de Repertório de Conteúdo Irreverente",
+        "why": "Para ter material pronto e original que ressoe com o estilo de humor 'forçado' e 'paneleiro'.",
+        "steps": [
+          "Pesquisar tendências de memes e piadas atuais (Reddit, Twitter, etc.)",
+          "Criar 5-10 memes ou textos curtos (chamados 'panela') que reflitam o estilo desejado",
+          "Testar o conteúdo em um grupo privado de amigos para feedback inicial antes de postar publicamente"
+        ],
+        "estimatedEffort": "3h/semana",
+        "owner": null,
+        "deadline": null,
+        "dependencies": [
+          "Criatividade",
+          "Senso de humor"
+        ],
+        "resources": [
+          "Geradores de memes online",
+          "Ferramentas básicas de edição de imagem/vídeo (ex: Canva, CapCut)",
+          "Grupos de amigos para feedback"
+        ],
+        "risks": [
+          "Conteúdo não ser engraçado",
+          "Ser considerado ofensivo"
+        ],
+        "mitigations": [
+          "Buscar referências e inspirações",
+          "Ajustar o humor para ser mais amplo",
+          "Testar em grupos menores"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "period": "Próximos 30 dias",
+        "focus": "Imersão e Curadoria",
+        "milestones": [
+          "Ingresso em 3 servidores",
+          "Criação de 5 itens de conteúdo inicial"
+        ]
+      },
+      {
+        "period": "Dias 31–90",
+        "focus": "Interação e Refinamento",
+        "milestones": [
+          "Postagem de conteúdo semanal",
+          "Feedback de membros da comunidade",
+          "Adaptação de estilo"
+        ]
+      }
+    ],
+    "mentorsAndNetwork": [
+      {
+        "name": null,
+        "role": "Moderadores de Discord",
+        "howTheyHelp": "Fornecer insights sobre a cultura e regras dos servidores"
+      },
+      {
+        "name": null,
+        "role": "Paneleiros experientes",
+        "howTheyHelp": "Inspiração e observação de técnicas de engajamento"
+      }
+    ],
+    "notes": [
+      "Usuário expressa o desejo de se tornar um 'paneleiro do Discord', um termo informal para um membro ativo que contribui com humor, memes e interações, muitas vezes de forma irreverente ou 'forçada'."
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "a4c33770-7071-4987-af2b-5ca7bd0741a0",
+  "created_at": "2026-01-16T04:31:55.403746",
+  "data": {
+    "version": "1.0",
+    "generatedAt": "2024-07-30T12:00:00Z",
+    "type": "internal",
+    "secondaryFocus": null,
+    "person": {
+      "name": "Fol",
+      "age": null,
+      "location": null,
+      "languages": [
+        "Português (BR)"
+      ],
+      "professional": {
+        "isEmployed": true,
+        "currentCompany": "Ludi Entertainment",
+        "jobFunction": "Empreendedor / Desenvolvedor de Jogos",
+        "seniorityLevel": null,
+        "targetRole": "Desenvolvedor Lua (Roblox)",
+        "targetArea": "Desenvolvimento de Jogos Roblox",
+        "industry": "Entretenimento Digital / Games",
+        "study": {
+          "course": null,
+          "subjects": [
+            "Programação Lua",
+            "Desenvolvimento de Jogos Roblox"
+          ]
+        },
+        "skills": [],
+        "certifications": [],
+        "toolsAndTech": [
+          "LUA",
+          "Roblox Studio"
+        ]
+      },
+      "personal": {
+        "interests": [],
+        "healthAndWellbeing": [],
+        "relationships": []
+      }
+    },
+    "goals": {
+      "shortTerm": [
+        "Aprender os fundamentos da linguagem Lua",
+        "Dominar as ferramentas e o ambiente do Roblox Studio",
+        "Desenvolver e lançar um mini-jogo simples no Roblox em 90 dias"
+      ],
+      "midTerm": [
+        "Desenvolver um jogo completo para a Ludi Entertainment no Roblox",
+        "Estabelecer um pipeline de desenvolvimento e testes para futuros jogos"
+      ],
+      "longTerm": [
+        "Aumentar a produção de jogos de qualidade para a Ludi Entertainment no Roblox",
+        "Consolidar a Ludi Entertainment como um estúdio reconhecido no Roblox"
+      ]
+    },
+    "kpis": [
+      {
+        "name": "Mini-jogo Roblox lançado",
+        "target": "1 em 90 dias",
+        "dueBy": null
+      },
+      {
+        "name": "Jogo completo Roblox lançado",
+        "target": "1 em 6 meses",
+        "dueBy": null
+      }
+    ],
+    "actions": [
+      {
+        "title": "Aprender Programação Lua e Roblox Studio",
+        "why": "Adquirir as habilidades técnicas necessárias para criar jogos para a Ludi Entertainment",
+        "steps": [
+          "Completar um curso introdutório de Lua (linguagem)",
+          "Estudar a documentação oficial do Roblox Studio e seus recursos",
+          "Construir 3 projetos pequenos para praticar conceitos de Lua e Roblox"
+        ],
+        "estimatedEffort": "10h/semana",
+        "owner": "Fol",
+        "deadline": null,
+        "dependencies": [],
+        "resources": [
+          "Cursos online de Lua (ex: Coursera, Udemy)",
+          "Documentação oficial do Roblox Creator Hub",
+          "Tutoriais da comunidade Roblox"
+        ],
+        "risks": [
+          "Curva de aprendizado íngreme",
+          "Falta de tempo dedicado"
+        ],
+        "mitigations": [
+          "Priorizar estudo diário",
+          "Buscar mentoria em comunidades de desenvolvedores Roblox"
+        ]
+      },
+      {
+        "title": "Desenvolver e Lançar o Primeiro Jogo Completo no Roblox",
+        "why": "Concretizar o objetivo de produzir mais jogos e validar as novas habilidades adquiridas",
+        "steps": [
+          "Definir o conceito e design detalhado do jogo",
+          "Desenvolver o código e os recursos visuais/sonoros",
+          "Realizar testes internos e com a comunidade para feedback",
+          "Publicar o jogo na plataforma Roblox"
+        ],
+        "estimatedEffort": "20h/semana",
+        "owner": "Fol",
+        "deadline": null,
+        "dependencies": [
+          "Conclusão da etapa de aprendizado de Lua e Roblox Studio"
+        ],
+        "resources": [
+          "Ferramentas de design (se necessário)",
+          "Recursos da biblioteca do Roblox",
+          "Comunidade de testes"
+        ],
+        "risks": [
+          "Atrasos no desenvolvimento",
+          "Baixa recepção do público"
+        ],
+        "mitigations": [
+          "Dividir o projeto em fases menores",
+          "Engajar a comunidade desde o início para feedback constante"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "period": "Próximos 3 meses",
+        "focus": "Fundamentos e Prototipagem",
+        "milestones": [
+          "Curso de Lua concluído",
+          "Domínio básico do Roblox Studio",
+          "Mini-jogo simples lançado"
+        ]
+      },
+      {
+        "period": "Próximos 6 meses",
+        "focus": "Desenvolvimento e Lançamento do Primeiro Jogo",
+        "milestones": [
+          "Design do jogo finalizado",
+          "Jogo completo desenvolvido",
+          "Jogo lançado na plataforma Roblox"
+        ]
+      }
+    ],
+    "mentorsAndNetwork": [
+      {
+        "name": null,
+        "role": "Desenvolvedor de Jogos Roblox Experiente",
+        "howTheyHelp": "Orientação técnica, feedback em projetos e compartilhamento de melhores práticas"
+      }
+    ],
+    "notes": [
+      "Fol é o proprietário da 'Ludi Entertainment' e deseja adquirir habilidades de desenvolvimento Lua para produzir jogos para sua própria empresa na plataforma Roblox. O foco principal é a transição de um papel mais gerencial para um de desenvolvedor ativo."
+    ]
+  }
+}

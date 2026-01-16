@@ -1,0 +1,244 @@
+{
+  "id": "88190259-431f-4842-92a9-aa1961bf1fe7",
+  "created_at": "2026-01-16T03:32:51.565109",
+  "data": {
+    "version": "1.0",
+    "generatedAt": "2024-07-30T12:00:00Z",
+    "type": "external",
+    "secondaryFocus": null,
+    "person": {
+      "name": null,
+      "age": null,
+      "location": null,
+      "languages": [
+        "Português (BR)"
+      ],
+      "professional": {
+        "isEmployed": null,
+        "currentCompany": null,
+        "jobFunction": null,
+        "seniorityLevel": null,
+        "targetRole": "Arquiteto de Software",
+        "targetArea": "Arquitetura de Software",
+        "industry": "Tecnologia",
+        "study": {
+          "course": null,
+          "subjects": []
+        },
+        "skills": [
+          "Design de Sistemas Distribuídos",
+          "Padrões de Arquitetura",
+          "Cloud Computing",
+          "Microserviços",
+          "Modelagem de Dados",
+          "Liderança Técnica"
+        ],
+        "certifications": [],
+        "toolsAndTech": [
+          "Plataformas Cloud (AWS, Azure, GCP)",
+          "Ferramentas de Diagramação (UML, C4 Model)",
+          "Git"
+        ]
+      },
+      "personal": {
+        "interests": [],
+        "healthAndWellbeing": [],
+        "relationships": []
+      }
+    },
+    "goals": {
+      "shortTerm": [
+        "Dominar os fundamentos de arquitetura de software (padrões, princípios SOLID)",
+        "Obter uma certificação em nuvem relevante para arquitetura (ex: AWS Solutions Architect Associate)",
+        "Construir um portfólio de projetos demonstrando habilidades de design de arquitetura"
+      ],
+      "midTerm": [
+        "Aplicar para posições de Arquiteto de Software Júnior/Pleno",
+        "Participar de projetos onde possa atuar como líder técnico ou arquiteto em formação"
+      ],
+      "longTerm": [
+        "Tornar-se um Arquiteto de Software Sênior/Principal",
+        "Contribuir para a definição da estratégia tecnológica de uma organização"
+      ]
+    },
+    "kpis": [
+      {
+        "name": "Conclusão de curso/leitura sobre Padrões de Arquitetura",
+        "target": "1 curso/3 livros",
+        "dueBy": "2025-02-28"
+      },
+      {
+        "name": "Certificação Cloud obtida",
+        "target": "1 certificação",
+        "dueBy": "2025-03-31"
+      },
+      {
+        "name": "Projetos de arquitetura no portfólio",
+        "target": "2 projetos (PoCs)",
+        "dueBy": "2025-04-30"
+      }
+    ],
+    "actions": [
+      {
+        "title": "Estudar Padrões e Princípios de Arquitetura de Software",
+        "why": "Construir uma base teórica sólida essencial para o papel de arquiteto.",
+        "steps": [
+          "Ler 'Clean Architecture' de Robert C. Martin",
+          "Estudar 'Design Patterns: Elements of Reusable Object-Oriented Software'",
+          "Assistir a cursos online sobre System Design e arquitetura de microserviços",
+          "Praticar aplicando padrões em pequenos projetos pessoais"
+        ],
+        "estimatedEffort": "10h/semana",
+        "owner": null,
+        "deadline": "2025-02-28",
+        "dependencies": [],
+        "resources": [
+          "Livros: Clean Architecture, Design Patterns",
+          "Plataformas de curso: Udemy, Coursera (System Design Interview Course)",
+          "Blogs e artigos especializados"
+        ],
+        "risks": [
+          "Sobrecarga de informação",
+          "Falta de tempo para prática"
+        ],
+        "mitigations": [
+          "Priorizar tópicos mais relevantes",
+          "Dedicar blocos de tempo fixos para estudo e prática"
+        ]
+      },
+      {
+        "title": "Obter Certificação AWS Solutions Architect - Associate",
+        "why": "Validar conhecimentos em design de soluções escaláveis e resilientes na nuvem, um requisito comum para arquitetos.",
+        "steps": [
+          "Completar curso preparatório para AWS SA-Associate",
+          "Realizar simulados da prova",
+          "Agendar e passar no exame de certificação"
+        ],
+        "estimatedEffort": "8h/semana",
+        "owner": null,
+        "deadline": "2025-03-31",
+        "dependencies": [
+          "Ter concluído o estudo dos fundamentos de arquitetura"
+        ],
+        "resources": [
+          "Cursos oficiais AWS ou de terceiros (A Cloud Guru, Adrian Cantrill)",
+          "Documentação AWS",
+          "Simulados de prova"
+        ],
+        "risks": [
+          "Dificuldade em assimilar o conteúdo extenso da AWS",
+          "Custo do exame"
+        ],
+        "mitigations": [
+          "Focar nos serviços principais e seus casos de uso",
+          "Utilizar recursos de estudo gratuitos e créditos de nuvem (se disponíveis)"
+        ]
+      },
+      {
+        "title": "Desenvolver 2 Projetos de Prova de Conceito (PoC) de Arquitetura",
+        "why": "Demonstrar habilidades práticas em projetar e documentar arquiteturas complexas.",
+        "steps": [
+          "Definir escopo e requisitos para 2 PoCs (ex: um sistema de e-commerce com microserviços, uma pipeline de dados)",
+          "Projetar a arquitetura usando ferramentas de diagramação (UML, C4 Model)",
+          "Implementar um MVP funcional para os componentes críticos",
+          "Documentar as decisões de arquitetura, trade-offs e justificativas"
+        ],
+        "estimatedEffort": "15h/semana",
+        "owner": null,
+        "deadline": "2025-04-30",
+        "dependencies": [
+          "Conhecimento em padrões de arquitetura e cloud computing"
+        ],
+        "resources": [
+          "Ferramentas de Diagramação (Excalidraw, Miro, draw.io)",
+          "Github/GitLab para controle de versão",
+          "Frameworks de desenvolvimento (Spring Boot, Node.js, .NET)"
+        ],
+        "risks": [
+          "Projetos muito ambiciosos para o tempo disponível",
+          "Falta de feedback sobre o design"
+        ],
+        "mitigations": [
+          "Limitar o escopo dos PoCs",
+          "Buscar feedback de mentores ou colegas experientes"
+        ]
+      },
+      {
+        "title": "Construir um Portfólio e CV Focado em Arquitetura",
+        "why": "Apresentar de forma eficaz as habilidades e projetos relevantes para vagas de Arquiteto de Software.",
+        "steps": [
+          "Atualizar CV destacando experiência em design de sistemas, liderança técnica e certificações",
+          "Criar um repositório no GitHub/GitLab com os PoCs documentados",
+          "Preparar estudos de caso para cada PoC, explicando desafios e soluções de arquitetura"
+        ],
+        "estimatedEffort": "5h/semana",
+        "owner": null,
+        "deadline": "2025-05-15",
+        "dependencies": [
+          "Conclusão dos PoCs de arquitetura"
+        ],
+        "resources": [
+          "Modelos de CV para arquitetos de software",
+          "Ferramentas de documentação (Markdown, Confluence)"
+        ],
+        "risks": [
+          "Portfólio não ser suficientemente impactante"
+        ],
+        "mitigations": [
+          "Revisar o portfólio com colegas ou mentores",
+          "Pesquisar portfólios de arquitetos de sucesso"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "period": "Mês 1-2 (Jul/Ago 2024)",
+        "focus": "Fundamentos de Arquitetura",
+        "milestones": [
+          "Leitura e estudo de Padrões de Arquitetura concluídos",
+          "Início do curso preparatório para AWS SA-Associate"
+        ]
+      },
+      {
+        "period": "Mês 3-4 (Set/Out 2024)",
+        "focus": "Cloud e Design Prático",
+        "milestones": [
+          "Certificação AWS SA-Associate obtida",
+          "Primeiro PoC de arquitetura iniciado"
+        ]
+      },
+      {
+        "period": "Mês 5-6 (Nov/Dez 2024)",
+        "focus": "Portfólio e Aplicação",
+        "milestones": [
+          "Segundo PoC de arquitetura concluído",
+          "CV e portfólio atualizados",
+          "Início das candidaturas para vagas de Arquiteto de Software"
+        ]
+      },
+      {
+        "period": "Mês 7 (Jan 2025)",
+        "focus": "Avaliação e Transição",
+        "milestones": [
+          "Participação em entrevistas de Arquiteto de Software",
+          "Feedback sobre o portfólio e CV incorporado"
+        ]
+      }
+    ],
+    "mentorsAndNetwork": [
+      {
+        "name": null,
+        "role": "Arquiteto de Software Sênior",
+        "howTheyHelp": "Fornecer orientação, revisar designs de arquitetura e dar feedback sobre o CV/portfólio."
+      },
+      {
+        "name": null,
+        "role": "Comunidade de Arquitetos de Software",
+        "howTheyHelp": "Compartilhar experiências, discutir desafios e oportunidades, aprender com outros profissionais."
+      }
+    ],
+    "notes": [
+      "Usuário não forneceu informações pessoais ou profissionais atuais, foco total na transição de carreira para Arquiteto de Software em 7 meses. O plano é ambicioso para 7 meses, exigindo dedicação intensa e pré-requisitos de conhecimento técnico (programação, desenvolvimento de software). Sugere-se avaliar o progresso a cada 30 dias para ajustar o ritmo."
+    ]
+  }
+}

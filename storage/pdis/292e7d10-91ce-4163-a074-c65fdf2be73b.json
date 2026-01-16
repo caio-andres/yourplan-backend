@@ -1,0 +1,191 @@
+{
+  "id": "292e7d10-91ce-4163-a074-c65fdf2be73b",
+  "created_at": "2026-01-16T04:29:38.144800",
+  "data": {
+    "version": "1.0",
+    "generatedAt": "2024-07-30T10:00:00",
+    "type": "external",
+    "secondaryFocus": null,
+    "person": {
+      "name": null,
+      "age": null,
+      "location": null,
+      "languages": [
+        "Português (BR)"
+      ],
+      "professional": {
+        "isEmployed": true,
+        "currentCompany": null,
+        "jobFunction": "Desenvolvedor Junior",
+        "seniorityLevel": "Junior",
+        "targetRole": "Arquiteto de Software",
+        "targetArea": "Arquitetura de Software",
+        "industry": "Tecnologia",
+        "study": {
+          "course": null,
+          "subjects": []
+        },
+        "skills": [],
+        "certifications": [],
+        "toolsAndTech": []
+      },
+      "personal": {
+        "interests": [],
+        "healthAndWellbeing": [],
+        "relationships": []
+      }
+    },
+    "goals": {
+      "shortTerm": [
+        "Dominar os princípios fundamentais de arquitetura de software (SOLID, padrões de projeto)",
+        "Aprofundar em tecnologias e frameworks relevantes para arquitetura (ex: microsserviços, cloud computing)",
+        "Contribuir ativamente em decisões de design de software em projetos atuais"
+      ],
+      "midTerm": [
+        "Liderar o design de uma funcionalidade ou módulo complexo dentro do projeto atual ou em um projeto pessoal",
+        "Obter uma certificação reconhecida em arquitetura de software (ex: AWS Certified Solutions Architect Associate)",
+        "Construir um portfólio de projetos que demonstrem habilidades de arquitetura"
+      ],
+      "longTerm": [
+        "Conquistar uma posição de Arquiteto de Software com remuneração de R$10.000/mês",
+        "Atuar como referência técnica na empresa, influenciando as decisões arquiteturais",
+        "Desenvolver especialização em uma área de arquitetura (ex: segurança, performance, escalabilidade)"
+      ]
+    },
+    "kpis": [
+      {
+        "name": "Salário mensal",
+        "target": "10000",
+        "dueBy": "2027-07-30"
+      },
+      {
+        "name": "Certificações em Arquitetura",
+        "target": "1",
+        "dueBy": "2025-12-31"
+      },
+      {
+        "name": "Projetos arquitetados",
+        "target": "3",
+        "dueBy": "2026-07-30"
+      }
+    ],
+    "actions": [
+      {
+        "title": "Estudar e aplicar os princípios fundamentais de Arquitetura de Software",
+        "why": "Construir uma base sólida para a transição de carreira e para resolver desafios técnicos complexos.",
+        "steps": [
+          "Ler livros como 'Clean Architecture' (Robert C. Martin) e 'Designing Data-Intensive Applications' (Martin Kleppmann)",
+          "Fazer cursos online sobre padrões arquiteturais e design de sistemas",
+          "Aplicar os conhecimentos em pequenos projetos pessoais ou em contribuições no trabalho atual"
+        ],
+        "estimatedEffort": "5-8h/semana",
+        "owner": null,
+        "deadline": null,
+        "dependencies": [],
+        "resources": [
+          "Livros: 'Clean Architecture', 'Designing Data-Intensive Applications'",
+          "Plataformas de curso online (Udemy, Coursera, Alura)",
+          "Documentação de frameworks e tecnologias de cloud (AWS, Azure, GCP)"
+        ],
+        "risks": [
+          "Falta de tempo",
+          "Conteúdo muito abstrato sem aplicação prática"
+        ],
+        "mitigations": [
+          "Dedicar horários específicos de estudo",
+          "Buscar oportunidades de aplicar conceitos em projetos reais, mesmo que pequenos"
+        ]
+      },
+      {
+        "title": "Buscar mentoria com Arquitetos de Software experientes",
+        "why": "Obter insights práticos, feedback construtivo e orientação na trajetória de carreira.",
+        "steps": [
+          "Identificar arquitetos de software na rede profissional (LinkedIn, eventos)",
+          "Entrar em contato e solicitar mentoria ou sessões de bate-papo informais",
+          "Preparar perguntas específicas sobre desafios de arquitetura e carreira"
+        ],
+        "estimatedEffort": "1h/mês",
+        "owner": null,
+        "deadline": null,
+        "dependencies": [],
+        "resources": [
+          "LinkedIn",
+          "Comunidades de desenvolvimento",
+          "Eventos da área de tecnologia"
+        ],
+        "risks": [
+          "Dificuldade em encontrar mentores disponíveis"
+        ],
+        "mitigations": [
+          "Ser proativo e persistente na busca",
+          "Estar aberto a diferentes perfis de mentores"
+        ]
+      },
+      {
+        "title": "Participar ativamente de projetos com impacto arquitetural",
+        "why": "Ganhar experiência prática e visibilidade para a transição de cargo.",
+        "steps": [
+          "Voluntariar-se para tarefas de design ou refatoração no trabalho atual",
+          "Propor melhorias arquiteturais e apresentar soluções",
+          "Documentar decisões de arquitetura e aprendizados"
+        ],
+        "estimatedEffort": "Conforme oportunidade",
+        "owner": null,
+        "deadline": null,
+        "dependencies": [],
+        "resources": [
+          "Projetos da empresa",
+          "Ferramentas de documentação (Confluence, Draw.io)",
+          "Colegas e líderes técnicos"
+        ],
+        "risks": [
+          "Não haver oportunidades adequadas"
+        ],
+        "mitigations": [
+          "Criar oportunidades em projetos pessoais",
+          "Propor ativamente melhorias e justificar o impacto positivo"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "period": "Próximos 6 meses",
+        "focus": "Fundamentos de Arquitetura e Padrões de Projeto",
+        "milestones": [
+          "Concluir 2 cursos sobre arquitetura",
+          "Realizar 1 projeto pessoal aplicando novos conhecimentos"
+        ]
+      },
+      {
+        "period": "Próximos 12-18 meses",
+        "focus": "Experiência Prática e Certificação",
+        "milestones": [
+          "Liderar um design de funcionalidade",
+          "Obter uma certificação de arquitetura de cloud",
+          "Ter um portfólio inicial de projetos arquiteturais"
+        ]
+      },
+      {
+        "period": "Próximos 18-36 meses",
+        "focus": "Conquista da Posição de Arquiteto",
+        "milestones": [
+          "Começar a aplicar para vagas de Arquiteto de Software",
+          "Conseguir o objetivo de salário de R$10.000/mês",
+          "Consolidar-se na função de Arquiteto de Software"
+        ]
+      }
+    ],
+    "mentorsAndNetwork": [
+      {
+        "name": null,
+        "role": "Arquiteto de Software Sênior",
+        "howTheyHelp": "Fornecer orientação, feedback sobre designs e insights de carreira"
+      }
+    ],
+    "notes": [
+      "O usuário busca uma transição significativa de carreira de Desenvolvedor Junior para Arquiteto de Software com um aumento salarial ambicioso.",
+      "O plano de desenvolvimento deve ser robusto e prever um horizonte de tempo de 2-3 anos para a concretização da meta principal.",
+      "O foco será em adquirir conhecimentos teóricos sólidos e, crucialmente, aplicá-los na prática para construir um portfólio e demonstrar capacidade."
+    ]
+  }
+}

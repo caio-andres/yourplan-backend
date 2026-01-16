@@ -1,0 +1,165 @@
+{
+  "id": "f7fbf94b-f550-4cf5-822d-d1efea9baca8",
+  "created_at": "2026-01-16T04:35:01.034102",
+  "data": {
+    "version": "1.0",
+    "generatedAt": "2024-07-29T10:00:00Z",
+    "type": "personal",
+    "secondaryFocus": null,
+    "person": {
+      "name": "Bernardo Righi",
+      "age": null,
+      "location": "São Paulo, Brasil",
+      "languages": [
+        "Português (BR)"
+      ],
+      "professional": {
+        "isEmployed": null,
+        "currentCompany": null,
+        "jobFunction": null,
+        "seniorityLevel": null,
+        "targetRole": null,
+        "targetArea": null,
+        "industry": null,
+        "study": {
+          "course": null,
+          "subjects": []
+        },
+        "skills": [],
+        "certifications": [],
+        "toolsAndTech": []
+      },
+      "personal": {
+        "interests": [
+          "Estilo Pessoal",
+          "Marcas de Luxo",
+          "Finanças (como herdeiro)"
+        ],
+        "healthAndWellbeing": [],
+        "relationships": [
+          {
+            "name": null,
+            "type": "Namorada"
+          }
+        ]
+      }
+    },
+    "goals": {
+      "shortTerm": [
+        "Compreender a gestão do patrimônio familiar e pessoal",
+        "Definir um plano financeiro pessoal alinhado ao status de herdeiro",
+        "Aprimorar o estilo pessoal de forma consciente e estratégica"
+      ],
+      "midTerm": [
+        "Explorar oportunidades de investimento e diversificação de patrimônio",
+        "Expandir a rede de contatos em círculos relevantes (sociais e de negócios)",
+        "Desenvolver habilidades de liderança e responsabilidade social"
+      ],
+      "longTerm": [
+        "Consolidar a gestão do patrimônio de forma sustentável e impactante",
+        "Estabelecer uma marca pessoal que reflita valores e objetivos",
+        "Contribuir para a sociedade através de filantropia ou empreendedorismo"
+      ]
+    },
+    "kpis": [
+      {
+        "name": "Reuniões com consultores financeiros",
+        "target": "2 em 60 dias",
+        "dueBy": null
+      },
+      {
+        "name": "Plano financeiro pessoal",
+        "target": "Draft completo",
+        "dueBy": null
+      },
+      {
+        "name": "Workshops de estilo/etiqueta",
+        "target": "1 concluído",
+        "dueBy": null
+      }
+    ],
+    "actions": [
+      {
+        "title": "Pesquisar e agendar reuniões com consultores financeiros especializados em gestão de patrimônio",
+        "why": "Obter orientação profissional para gerenciar recursos e oportunidades",
+        "steps": [
+          "Identificar 3-5 consultores recomendados na área da Faria Lima",
+          "Agendar reuniões iniciais para entender serviços e abordagens",
+          "Selecionar um consultor para um plano de longo prazo"
+        ],
+        "estimatedEffort": "3h/semana",
+        "owner": "Bernardo Righi",
+        "deadline": null,
+        "dependencies": [],
+        "resources": [
+          "Indicações de familiares/amigos",
+          "Associações de Planejadores Financeiros"
+        ],
+        "risks": [
+          "Escolha de um consultor inadequado"
+        ],
+        "mitigations": [
+          "Fazer due diligence, pedir referências e ter múltiplas entrevistas"
+        ]
+      },
+      {
+        "title": "Desenvolver um 'board' de estilo pessoal e imagem pública",
+        "why": "Refletir a posição de forma autêntica e profissional",
+        "steps": [
+          "Coletar referências de ícones de estilo e figuras públicas admiradas",
+          "Identificar peças-chave e marcas que complementem o estilo atual",
+          "Consultar um stylist para feedback e sugestões personalizadas"
+        ],
+        "estimatedEffort": "2h/semana",
+        "owner": "Bernardo Righi",
+        "deadline": null,
+        "dependencies": [],
+        "resources": [
+          "Revistas de moda e lifestyle",
+          "Stylists profissionais",
+          "Lojas de grife e alfaiatarias"
+        ],
+        "risks": [
+          "Resultar em um estilo pouco autêntico"
+        ],
+        "mitigations": [
+          "Focar na expressão pessoal e conforto, não apenas na tendência"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "period": "Próximos 3 meses",
+        "focus": "Autoconhecimento Financeiro e Análise de Estilo",
+        "milestones": [
+          "Primeira reunião com consultor financeiro",
+          "Mood board de estilo pessoal concluído"
+        ]
+      },
+      {
+        "period": "Próximos 6 meses",
+        "focus": "Planejamento e Execução Inicial",
+        "milestones": [
+          "Plano financeiro pessoal desenvolvido",
+          "Aquisição de peças-chave para o guarda-roupa"
+        ]
+      }
+    ],
+    "mentorsAndNetwork": [
+      {
+        "name": null,
+        "role": "Consultor Financeiro/Wealth Manager",
+        "howTheyHelp": "Orientação na gestão de patrimônio e investimentos"
+      },
+      {
+        "name": null,
+        "role": "Consultor de Imagem/Stylist",
+        "howTheyHelp": "Apoio no desenvolvimento do estilo pessoal e imagem pública"
+      }
+    ],
+    "notes": [
+      "O PDI foi gerado com foco em desenvolvimento pessoal e gestão de patrimônio, inferido a partir da autodeclaração de 'herdeiro da Faria Lima' e menções a marcas de luxo.",
+      "Não foram identificadas metas profissionais explícitas na descrição fornecida."
+    ]
+  }
+}

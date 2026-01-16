@@ -1,0 +1,130 @@
+{
+  "id": "710343fa-f0ed-4867-9af0-8cab03126203",
+  "created_at": "2026-01-16T03:28:21.615133",
+  "data": {
+    "version": "1.0",
+    "generatedAt": "2026-01-16T03:28:09",
+    "type": "personal",
+    "secondaryFocus": null,
+    "person": {
+      "name": null,
+      "age": null,
+      "location": null,
+      "languages": [
+        "Português (BR)"
+      ],
+      "professional": {
+        "isEmployed": null,
+        "currentCompany": null,
+        "jobFunction": null,
+        "seniorityLevel": null,
+        "targetRole": "Moderador de Discord",
+        "targetArea": "Comunidades Online",
+        "industry": "Entretenimento Digital",
+        "study": {
+          "course": null,
+          "subjects": []
+        },
+        "skills": [
+          "Moderação de Conteúdo",
+          "Gestão de Comunidade"
+        ],
+        "certifications": [],
+        "toolsAndTech": [
+          "Discord"
+        ]
+      },
+      "personal": {
+        "interests": [
+          "Comunidades Online",
+          "Moderação de Discord"
+        ],
+        "healthAndWellbeing": [],
+        "relationships": []
+      }
+    },
+    "goals": {
+      "shortTerm": [
+        "Compreender profundamente as diretrizes e ferramentas de moderação do Discord",
+        "Engajar-se ativamente em pelo menos dois servidores Discord para observar dinâmicas de moderação"
+      ],
+      "midTerm": [
+        "Obter um cargo de moderador em um servidor Discord de interesse",
+        "Desenvolver um estilo de moderação assertivo e rigoroso, alinhado ao conceito de 'paneleiro'"
+      ],
+      "longTerm": [
+        "Ser reconhecido como um moderador eficaz e com estilo distinto em comunidades Discord",
+        "Contribuir para a manutenção da ordem e qualidade do ambiente em múltiplas comunidades"
+      ]
+    },
+    "kpis": [
+      {
+        "name": "Servidores com moderação ativa",
+        "target": "1 em até 90 dias",
+        "dueBy": null
+      },
+      {
+        "name": "Conhecimento de bots de moderação",
+        "target": "Concluir 3 tutoriais",
+        "dueBy": null
+      }
+    ],
+    "actions": [
+      {
+        "title": "Aprofundar conhecimento em ferramentas e boas práticas de moderação no Discord",
+        "why": "Adquirir base técnica e estratégica para atuar como moderador 'paneleiro'",
+        "steps": [
+          "Pesquisar e entender os termos de serviço e diretrizes da comunidade do Discord",
+          "Estudar a funcionalidade de bots de moderação populares (ex: MEE6, Dyno, AutoMod)",
+          "Participar de comunidades de moderadores para trocar experiências e aprender com outros",
+          "Identificar exemplos de moderação 'paneleira' eficaz e ineficaz em servidores grandes"
+        ],
+        "estimatedEffort": "3 horas/semana",
+        "owner": null,
+        "deadline": "Em 45 dias",
+        "dependencies": [],
+        "resources": [
+          "Documentação oficial do Discord",
+          "Tutoriais e vídeos sobre bots de moderação",
+          "Fóruns e comunidades de moderadores de Discord"
+        ],
+        "risks": [
+          "Interpretação errônea do estilo 'paneleiro'",
+          "Dificuldade em encontrar um servidor para aplicar conhecimentos"
+        ],
+        "mitigations": [
+          "Buscar feedback de moderadores experientes",
+          "Candidatar-se para moderação em múltiplos servidores"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "period": "Próximos 30 dias",
+        "focus": "Fundamentos de moderação e pesquisa de servidores",
+        "milestones": [
+          "Conclusão de pesquisa de bots",
+          "Identificação de 5 servidores para potencial moderação"
+        ]
+      },
+      {
+        "period": "Dias 31-90",
+        "focus": "Aplicação e prática de moderação",
+        "milestones": [
+          "Obtenção de cargo de moderação",
+          "Primeiras ações de moderação 'paneleira' com feedback"
+        ]
+      }
+    ],
+    "mentorsAndNetwork": [
+      {
+        "name": null,
+        "role": "Moderador Experiente de Discord",
+        "howTheyHelp": "Orientação sobre as nuances da moderação e feedback sobre o estilo 'paneleiro'"
+      }
+    ],
+    "notes": [
+      "O usuário deseja assumir um papel de moderação no Discord com um estilo 'paneleiro', implicando uma abordagem assertiva e rigorosa na aplicação das regras da comunidade."
+    ]
+  }
+}

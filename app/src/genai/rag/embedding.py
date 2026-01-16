@@ -8,7 +8,7 @@ from src.genai.rag.chunck import chunk_dataframe, process_chunk
 
 
 def embed_files():
-    base_path = "./src/genai/rag/knowledge_source/"
+    base_path = "app/src/genai/rag/knowledge_source/"
     file_names = [
         f
         for f in os.listdir(base_path)
